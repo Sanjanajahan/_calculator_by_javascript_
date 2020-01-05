@@ -87,8 +87,9 @@ form input{}
     color: #333;
     font-weight: 600;
 }
-.calculator-design .implement-design{
+.calculator-design .implement-design {
     background-color: #72d47212;
+    height: 100vh;
 }
 .calculator-body{
     background-image: url(../image/poko.png);
